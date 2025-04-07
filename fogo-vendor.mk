@@ -3172,7 +3172,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/fogo/proprietary/vendor/etc/sensors/config/icm4x6xa.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/icm4x6xa.json \
     vendor/motorola/fogo/proprietary/vendor/etc/sensors/config/icp201xx_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/icp201xx_0.json \
     vendor/motorola/fogo/proprietary/vendor/etc/sensors/config/mot_camgest.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/mot_camgest.json \
-    vendor/motorola/fogo/proprietary/vendor/etc/sensors/config/mot_tap.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/mot_tap.json \
     vendor/motorola/fogo/proprietary/vendor/etc/sensors/config/sns_amd.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_amd.json \
     vendor/motorola/fogo/proprietary/vendor/etc/sensors/config/sns_amd_sw_disabled.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_amd_sw_disabled.json \
     vendor/motorola/fogo/proprietary/vendor/etc/sensors/config/sns_amd_sw_enabled.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_amd_sw_enabled.json \
