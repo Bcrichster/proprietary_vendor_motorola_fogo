@@ -58488,6 +58488,7 @@
             <item value="352|emergency calls over wifi not allowed in this location|1622" />
             <item value="332|service not allowed in this location|1623" />
         </string-array>
+        <boolean name="inflate_signal_strength_bool" value="true" />
         <int name="maxImageHeight" value="1944" />
         <int name="maxImageWidth" value="2592" />
         <int name="maxMessageSize" value="1048576" />
@@ -63910,6 +63911,7 @@
             <item value="352|emergency calls over wifi not allowed in this location|1622" />
             <item value="332|service not allowed in this location|1623" />
         </string-array>
+        <boolean name="inflate_signal_strength_bool" value="true" />
         <int name="maxImageHeight" value="1944" />
         <int name="maxImageWidth" value="2592" />
         <int name="maxMessageSize" value="1048576" />
@@ -75486,6 +75488,7 @@
             <item value="352|emergency calls over wifi not allowed in this location|1622" />
             <item value="332|service not allowed in this location|1623" />
         </string-array>
+        <boolean name="inflate_signal_strength_bool" value="true" />
         <int name="maxImageHeight" value="1944" />
         <int name="maxImageWidth" value="2592" />
         <int name="maxMessageSize" value="1048576" />
@@ -79729,6 +79732,7 @@
             <item value="352|emergency calls over wifi not allowed in this location|1622" />
             <item value="332|service not allowed in this location|1623" />
         </string-array>
+        <boolean name="inflate_signal_strength_bool" value="true" />
         <int name="maxImageHeight" value="1944" />
         <int name="maxImageWidth" value="2592" />
         <int name="maxMessageSize" value="1048576" />
