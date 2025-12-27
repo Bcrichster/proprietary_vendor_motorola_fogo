@@ -3476,17 +3476,13 @@ PRODUCT_PACKAGES += \
     libofflinelog \
     libopencv \
     libopestriping \
-    libos \
     libportrait_repair_ppl3_ocl \
-    libpowercore \
     libqll10 \
     libqllengine \
     libremosaic_wrapper \
     libsn220u_fw \
     libswregistrationalgo \
-    libsynx \
     libtfestriping \
-    libthreadutils \
     libvidhance \
     motorola.hardware.camera.desktop@1.0 \
     motorola.hardware.camera.desktop@2.0 \
